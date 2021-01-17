@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning NextJS / GraphQL
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-<br />
 
 ### Languages and Tools:
 
